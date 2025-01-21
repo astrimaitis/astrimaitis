@@ -3,7 +3,7 @@
 
 <!--
 [![Andrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=astrimaitis)](https://github.com/astrimaitis/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=astrimaitis)](https://github.com/astrimaitis/github-readme-stats)
 **astrimaitis/astrimaitis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
